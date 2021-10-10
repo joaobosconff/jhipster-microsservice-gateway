@@ -18,7 +18,7 @@ logging:
     ROOT: DEBUG
     tech.jhipster: DEBUG
     org.hibernate.SQL: DEBUG
-    joao.tcc.gateway: DEBUG
+    joao.tcc.ms.app: DEBUG
 
 eureka:
   instance:
@@ -106,7 +106,7 @@ jhipster:
     authentication:
       jwt:
         # This token must be encoded using Base64 and be at least 256 bits long (you can type `openssl rand -base64 64` on your command line to generate a 512 bits one)
-        base64-secret: OTM1ZDk0MmU4NWZkZjBjZjNjOGMxYzYzYTkyZjY3OWMwMDRhMmRlOTUzZTMxMDlmNTgwYTRiNzhmNDExYTBkODE0OTAwZTM4NjdmNzUwMzY1ODY3YTUzMGQ2NTFjYjFhY2MzYTljMjE4YWVlMmE1ZWFmNDNjYmM0N2I4ODYyOGM=
+        base64-secret: OWI3MDM1YzVlOWY5Njg2MDM2NDg0MGY3MTgxNTFlZGJjY2MzYWFlNGQ4ZDM2NmY1YjJmOWY2ZWRiOGU0ODdmODVlNTY3NjZjZDg4MGZjYWM1NGEwMWExODg0OWJjYmJiM2Y0N2M0NTNhNjI3MjFlZDJlYWNjNWVhMjQyN2U2ZTY=
         # Token is valid 24 hours
         token-validity-in-seconds: 86400
         token-validity-in-seconds-for-remember-me: 2592000

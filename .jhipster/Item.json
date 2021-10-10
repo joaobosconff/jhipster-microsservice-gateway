@@ -1,7 +1,7 @@
 {
-  "microservicePath": "../item-app",
-  "microserviceName": "itemsapp",
-  "clientRootFolder": "itemsapp",
+  "microservicePath": "C:\\Users\\joaoz\\Code\\Projects\\Pessoal\\tcc\\msjh\\jhipster-microsservice-item",
+  "microserviceName": "itemcrud",
+  "clientRootFolder": "itemcrud",
   "databaseType": "sql",
   "fields": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "fieldName": "price",
-      "fieldType": "Float"
+      "fieldType": "Integer"
     }
   ],
   "relationships": [],
@@ -18,5 +18,5 @@
   "readOnly": false,
   "pagination": "no",
   "name": "Item",
-  "changelogDate": "20210919222509"
+  "changelogDate": "20211010054132"
 }
