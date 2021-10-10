@@ -37,7 +37,7 @@
     "clientTheme": "none",
     "enableTranslation": false,
     "nativeLanguage": "en",
-    "jwtSecretKey": "OWI3MDM1YzVlOWY5Njg2MDM2NDg0MGY3MTgxNTFlZGJjY2MzYWFlNGQ4ZDM2NmY1YjJmOWY2ZWRiOGU0ODdmODVlNTY3NjZjZDg4MGZjYWM1NGEwMWExODg0OWJjYmJiM2Y0N2M0NTNhNjI3MjFlZDJlYWNjNWVhMjQyN2U2ZTY=",
+    "jwtSecretKey": "bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl",
     "devServerPort": 4200,
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
@@ -46,3 +46,4 @@
     "entities": ["Item"]
   }
 }
+
