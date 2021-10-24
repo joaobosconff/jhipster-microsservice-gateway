@@ -1,9 +1,0 @@
-{
-  "generator-jhipster:7.2.0": {
-    "promptValues": {
-      "packageName": "joao.tcc.ms.app",
-      "nativeLanguage": "en",
-      "microservicePath": "C:\\Users\\joaoz\\Code\\Projects\\Pessoal\\tcc\\msjh\\jhipster-microsservice-item"
-    }
-  }
-}
